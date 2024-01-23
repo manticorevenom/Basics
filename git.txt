@@ -1,0 +1,16 @@
+1.
+
+Junio C Hamano
+
+2.
+
+	5 Commits
+	4 Trees
+	3 Blobs
+
+3. According to the commit message, the commit is updating the german translation for Git v2.31.0
+
+4. a/Documentation/RelNotes/2.31.1.txt b/Documentation/RelNotes/2.31.1.txt
+
+5. 2 branches
+
